@@ -12,11 +12,8 @@ Models Used:
 Tech Stack:
 
   Python
-  
   Pandas
-  
   Numpy
-  
   Matplotlib
   Seaborn
   Machine Learning
